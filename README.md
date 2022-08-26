@@ -3,7 +3,7 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-## ✔️ Técnicas e tecnologias utilizadas
+✔️ Técnicas e tecnologias utilizadas
 
 - ``Dart``
 - ``Flutter``
